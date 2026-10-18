@@ -1,1 +1,3 @@
-mcp>=1.28,<2\nuvicorn[standard]>=0.30,<1\n
+
+mcp>=1.28,<2
+uvicorn[standard]>=0.30,<1
